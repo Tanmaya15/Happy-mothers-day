@@ -1,0 +1,23 @@
+<style>
+h1{
+    color: salmon;
+}
+ img{
+border: solid;
+border-radius: 20px;
+
+}
+h2{
+    color: crimson;
+}
+*{
+    background-color:ivory;
+}
+.whole{
+    border: solid;
+    border-radius: 20px;
+}
+.mid{
+    display:flex;
+}
+</style>
